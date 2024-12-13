@@ -30,7 +30,7 @@ function LoginPage() {
       {/* Left Section */}
       <div className="flex-1 bg-[#C1DCDC] flex items-center justify-center">
         <motion.img
-          src="/public/login.svg"
+          src="/login.svg"
           alt="Login Illustration"
           className="w-auto h-3/4 object-contain"
           initial="hidden"
